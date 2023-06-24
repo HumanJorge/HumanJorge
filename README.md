@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Jorge Silva</h1>
-<h3 align="center">An aspiring Data Scientist!</h3>
+<h1 align="center">Hi 👋, I'm Jorge </h1>
+<h3 align="center">Aspiring Data Scientist!</h3>
 
-- 📫 How to reach me **jorgesilva.42@outlook.com**
+I recently finished a Data Science bootcamp (400h, LeWagon), and I'm fresh and excited to shift into this world along with its projects. 
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFmRZlns3Q/mYiN0wdo-9-c_xenBh4_gg/view?utm_content=DAFmRZlns3Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFmRZlns3Q/mYiN0wdo-9-c_xenBh4_gg/view?utm_content=DAFmRZlns3Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📫 You can reach me by sending an e-mail to: **jorgesilva.42@outlook.com**
 
-- ⚡ Fun fact **Nowadays, I hit the keys to program and play piano.**
+- 📄 Know about my experiences, here's my CV: [https://www.canva.com/design/DAFmRZlns3Q/mYiN0wdo-9-c_xenBh4_gg/view?utm_content=DAFmRZlns3Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFmRZlns3Q/mYiN0wdo-9-c_xenBh4_gg/view?utm_content=DAFmRZlns3Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+- ⚡ Fun fact: **Nowadays, I hit the keys to program and play piano.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
